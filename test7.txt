@@ -1,0 +1,4 @@
+func foo(x : int) return int
+{
+    x = 0;
+}

@@ -1,0 +1,11 @@
+func foo(i, j, k : int) return int
+{
+    func fee(l, m, n : int) return bool
+    {
+        {
+            x = 2;
+        }
+        return true;
+    }
+    return 0;
+}

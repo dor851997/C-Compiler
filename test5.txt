@@ -1,0 +1,4 @@
+func 9goo() return int 
+{ 
+    return 100; 
+}

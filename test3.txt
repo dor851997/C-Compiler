@@ -1,0 +1,12 @@
+func foo(n: int) return int
+{
+    while (i < n)
+    {
+        a = b;
+        b = a + b;
+        i = i + 1;
+        var y : string[10];
+        s = &y[5];
+    }
+    return a;
+}

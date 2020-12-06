@@ -1,0 +1,13 @@
+func foo(i, j, k : int) return int
+{
+    func square(t : int) /% func/proc declarations %/ return int
+    {
+        var temp : int;
+        temp = t*t;
+        foo(a);
+        return 0;
+    }
+    var total : int; /% variable declarations %/
+    total = 1; /% statements %/
+    return total;
+}

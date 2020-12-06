@@ -1,0 +1,15 @@
+proc foo(x, y, z: int; f: real)
+{
+    if (x>y) 
+    {
+        var x: int;
+        var y: int;
+        x = x + y;
+        return 0;
+    }
+    else 
+    {
+        x = 2;
+        x = ^y
+    }
+}
