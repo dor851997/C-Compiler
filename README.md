@@ -5,6 +5,8 @@ A compiler for a simple language similar to c language. Written in Lex, Yacc, C.
 Compiller has 1 step:  
 
 1. Lexical analysis reuslt will be a Abstract syntax tree for Syntax analysis.  
+2. Syntax analysis.  
+3. Three address code (3AC) generation.  
 
 In order to run the application:  
 
